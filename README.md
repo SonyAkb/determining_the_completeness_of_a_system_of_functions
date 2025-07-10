@@ -43,13 +43,13 @@ ____
 В первой строке указывается количество функций в системе, а в последующих — сами функции.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d08a1e65-b62d-4dc7-bd5a-781591fea1b4" alt="image" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/d08a1e65-b62d-4dc7-bd5a-781591fea1b4" alt="image" style="width:40%; height:auto;">
 </p>
 
 При запуске программы выведутся все в функции в таблицах истинности.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/086c6b08-a0f8-41dd-b647-9eab1ed4a054" alt="image" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/086c6b08-a0f8-41dd-b647-9eab1ed4a054" alt="image" style="width:10%; height:auto;">
 </p>
 
 Ниже будут выведены свойства всех функций в формате таблицы и вывод о системе — полная система или нет.
