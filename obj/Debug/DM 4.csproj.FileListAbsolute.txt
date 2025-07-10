@@ -1,0 +1,7 @@
+C:\Users\sofia\source\repos\Semester 3\DM 4\bin\Debug\DM 4.exe.config
+C:\Users\sofia\source\repos\Semester 3\DM 4\bin\Debug\DM 4.exe
+C:\Users\sofia\source\repos\Semester 3\DM 4\bin\Debug\DM 4.pdb
+C:\Users\sofia\source\repos\Semester 3\DM 4\obj\Debug\DM 4.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\Semester 3\DM 4\obj\Debug\DM 4.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\Semester 3\DM 4\obj\Debug\DM 4.exe
+C:\Users\sofia\source\repos\Semester 3\DM 4\obj\Debug\DM 4.pdb
